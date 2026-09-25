@@ -1,0 +1,195 @@
+#EXTM3U name="Master English HD Playlist" x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz"
+
+# ==========================================
+# CATEGORY: Dungeons & Dragons
+# ==========================================
+#EXTINF:-1 tvg-id="DungeonsAndDragonsAdventures.us" tvg-name="Dungeons & Dragons Adventures HD" tvg-logo="https://i.imgur.com/dnd.png" group-title="Dungeons & Dragons; Sci-Fi & Fantasy; Entertainment",Dungeons & Dragons Adventures HD
+#EXTGRP:Dungeons & Dragons,Sci-Fi & Fantasy,Entertainment
+https://dnd-adventures-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CriticalRole.us" tvg-name="Critical Role HD" tvg-logo="https://i.imgur.com/critrole.png" group-title="Dungeons & Dragons; Sci-Fi & Fantasy; Entertainment",Critical Role HD
+#EXTGRP:Dungeons & Dragons,Sci-Fi & Fantasy,Entertainment
+https://critical-role-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GeekAndSundry.us" tvg-name="Geek & Sundry HD" group-title="Dungeons & Dragons; Sci-Fi & Fantasy; Entertainment",Geek & Sundry HD
+#EXTGRP:Dungeons & Dragons,Sci-Fi & Fantasy,Entertainment
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d164d1f2780650d5102f43d/master.m3u8
+#EXTINF:-1 tvg-id="DiceTower.us" tvg-name="The Dice Tower TV HD" group-title="Dungeons & Dragons; Entertainment",The Dice Tower TV HD
+#EXTGRP:Dungeons & Dragons,Entertainment
+https://dicetower-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: Sci-Fi & Fantasy
+# ==========================================
+#EXTINF:-1 tvg-id="DungeonsAndDragonsAdventures.us" tvg-name="Dungeons & Dragons Adventures HD" group-title="Dungeons & Dragons; Sci-Fi & Fantasy; Entertainment",Dungeons & Dragons Adventures HD
+#EXTGRP:Dungeons & Dragons,Sci-Fi & Fantasy,Entertainment
+https://dnd-adventures-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CriticalRole.us" tvg-name="Critical Role HD" group-title="Dungeons & Dragons; Sci-Fi & Fantasy; Entertainment",Critical Role HD
+#EXTGRP:Dungeons & Dragons,Sci-Fi & Fantasy,Entertainment
+https://critical-role-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Dust.us" tvg-name="DUST Sci-Fi HD" tvg-logo="https://i.imgur.com/dust.png" group-title="Sci-Fi & Fantasy",DUST Sci-Fi HD
+#EXTGRP:Sci-Fi & Fantasy
+https://dust-dust-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet TV HD" tvg-logo="https://i.imgur.com/comet.png" group-title="Sci-Fi & Fantasy; General",Comet TV HD
+#EXTGRP:Sci-Fi & Fantasy,General
+https://sb.radiantmediaplayer.com/comet/index.m3u8
+#EXTINF:-1 tvg-id="DoctorWho.uk" tvg-name="Doctor Who Channel HD" tvg-logo="https://i.imgur.com/drwho.png" group-title="Sci-Fi & Fantasy; Series",Doctor Who Channel HD
+#EXTGRP:Sci-Fi & Fantasy,Series
+https://bbc-doctorwho-1-uk.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoSciFi.us" tvg-name="Pluto TV Sci-Fi HD" group-title="Sci-Fi & Fantasy; Movie Channels",Pluto TV Sci-Fi HD
+#EXTGRP:Sci-Fi & Fantasy,Movie Channels
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/542b23a9109e25d20387b3e0/master.m3u8
+
+# ==========================================
+# CATEGORY: Movie Channels
+# ==========================================
+#EXTINF:-1 tvg-id="FilmRiseAction.us" tvg-name="FilmRise Action Movies HD" tvg-logo="https://i.imgur.com/filmrise.png" group-title="Movie Channels",FilmRise Action Movies HD
+#EXTGRP:Movie Channels
+https://filmrise-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMovies.us" tvg-name="Pluto TV Movies HD" tvg-logo="https://i.imgur.com/plutomovies.png" group-title="Movie Channels",Pluto TV Movies HD
+#EXTGRP:Movie Channels
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/53d0382348ff98f121e78044/master.m3u8
+#EXTINF:-1 tvg-id="RokuActionMovies.us" tvg-name="Roku Action Movies HD" group-title="Movie Channels",Roku Action Movies HD
+#EXTGRP:Movie Channels
+https://therokuchannel.roku.com/manifests/action-movies-us.m3u8
+#EXTINF:-1 tvg-id="TubiAction.us" tvg-name="Tubi Action Movies HD" group-title="Movie Channels",Tubi Action Movies HD
+#EXTGRP:Movie Channels
+https://tubi-action-1-us.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-name="Cinevault Westerns HD" group-title="Movie Channels; Classic TV",Cinevault Westerns HD
+#EXTGRP:Movie Channels,Classic TV
+https://cinevault-westerns-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenActionMovies.uk" tvg-name="Rakuten Action Movies HD" group-title="Movie Channels",Rakuten Action Movies HD
+#EXTGRP:Movie Channels
+https://rakuten-actionmovies-1-uk.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: Sports - Baseball
+# ==========================================
+#EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB Channel HD" tvg-logo="https://i.imgur.com/mlb.png" group-title="Sports - Baseball",MLB Channel HD
+#EXTGRP:Sports - Baseball
+https://mlb-mlb-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: Sports - Basketball
+# ==========================================
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV HD" tvg-logo="https://i.imgur.com/nba.png" group-title="Sports - Basketball",NBA TV HD
+#EXTGRP:Sports - Basketball
+https://nba-nba-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: Sports - Combat
+# ==========================================
+#EXTINF:-1 tvg-id="PFL.us" tvg-name="PFL MMA HD" group-title="Sports - Combat",PFL MMA HD
+#EXTGRP:Sports - Combat
+https://pfl-pfl-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-name="Impact Wrestling HD" group-title="Sports - Combat",Impact Wrestling HD
+#EXTGRP:Sports - Combat
+https://impact-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZNBoxing.uk" tvg-name="DAZN Boxing HD" group-title="Sports - Combat",DAZN Boxing HD
+#EXTGRP:Sports - Combat
+https://dazn-boxing-1-uk.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-name="Glory Kickboxing HD" group-title="Sports - Combat",Glory Kickboxing HD
+#EXTGRP:Sports - Combat
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a0c9a47ef001a1c97a95610/master.m3u8
+
+# ==========================================
+# CATEGORY: Sports - Motorsports / Auto
+# ==========================================
+#EXTINF:-1 tvg-id="NitroTV.us" tvg-name="Nitro College & Motorsports HD" group-title="Sports - Motorsports; Auto & Motoring",Nitro Motorsports HD
+#EXTGRP:Sports - Motorsports,Auto & Motoring
+https://nitro-motorsports-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="MotorTrend FAST HD" group-title="Sports - Motorsports; Documentary; Auto & Motoring",MotorTrend FAST HD
+#EXTGRP:Sports - Motorsports,Documentary,Auto & Motoring
+https://motortrend-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear UK HD" group-title="Auto & Motoring; General",Top Gear UK HD
+#EXTGRP:Auto & Motoring,General
+https://topgear-1-uk.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: Sports - General
+# ==========================================
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV HD" group-title="Sports - General",Red Bull TV HD
+#EXTGRP:Sports - General
+https://rbmn-live.akamaized.net/hls/live/591070/FL01/master.m3u8
+#EXTINF:-1 tvg-id="Whistle.us" tvg-name="Whistle Sports HD" group-title="Sports - General",Whistle Sports HD
+#EXTGRP:Sports - General
+https://whistle-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium Sports Network HD" group-title="Sports - General",Stadium Sports Network HD
+#EXTGRP:Sports - General
+https://stadium-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: General & Entertainment
+# ==========================================
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV HD" group-title="General",Bounce TV HD
+#EXTGRP:General
+https://bounce-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ION.us" tvg-name="ION Television HD" group-title="General; Series",ION Television HD
+#EXTGRP:General,Series
+https://ion-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News & Entertainment HD" group-title="General; News",CBC News & Entertainment HD
+#EXTGRP:General,News
+https://cbcliveregional-i.akamaihd.net/hls/live/2042211/TORONTO/master.m3u8
+#EXTINF:-1 tvg-id="LocalNowNews.us" tvg-name="Local Now Main HD" group-title="General; News",Local Now Main HD
+#EXTGRP:General,News
+https://localnow-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: News & Business
+# ==========================================
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV HD" group-title="News; Business",Bloomberg TV HD
+#EXTGRP:News,Business
+https://bloomberg.com/media-manifest/live/us.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News HD" group-title="News",Sky News HD
+#EXTGRP:News
+https://skynews-1-uk.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation HD" group-title="News; Weather",WeatherNation HD
+#EXTGRP:News,Weather
+https://weathernation-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: True Crime
+# ==========================================
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="Law & Crime Network HD" group-title="True Crime; News",Law & Crime Network HD
+#EXTGRP:True Crime,News
+https://lawandcrime-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RealCrime.uk" tvg-name="Real Crime UK HD" group-title="True Crime",Real Crime UK HD
+#EXTGRP:True Crime
+https://realcrime-1-uk.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV HD" group-title="True Crime; General",Court TV HD
+#EXTGRP:True Crime,General
+https://courttv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: Documentary & Science
+# ==========================================
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV Public HD" group-title="Documentary; Science; Education",NASA TV Public HD
+#EXTGRP:Documentary,Science,Education
+https://ntv1.akamaized.net/hls/live/2014075/NASA-TV-Public/master.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America HD" group-title="Documentary; Education",PBS America HD
+#EXTGRP:Documentary,Education
+https://pbs-1-uk.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" tvg-name="Docurama HD" group-title="Documentary",Docurama HD
+#EXTGRP:Documentary
+https://docurama-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: Animation & Kids
+# ==========================================
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day HD" group-title="Animation",Anime All Day HD
+#EXTGRP:Animation
+https://animeallday-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush Anime HD" group-title="Animation; Classic TV",RetroCrush Anime HD
+#EXTGRP:Animation,Classic TV
+https://retrocrush-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel HD" group-title="Animation; Kids",Kartoon Channel HD
+#EXTGRP:Animation,Kids
+https://kartoon-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+# ==========================================
+# CATEGORY: Lifestyle & Travel
+# ==========================================
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade HD" group-title="Cooking; Travel",Tastemade HD
+#EXTGRP:Cooking,Travel
+https://tastemade-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy HD" group-title="Comedy; Entertainment",FailArmy HD
+#EXTGRP:Comedy,Entertainment
+https://failarmy-1-us.samsung.wurl.tv/manifest/playlist.m3u8
