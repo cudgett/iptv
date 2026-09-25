@@ -1,34 +1,25 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml.gz"
 
 # ==========================================
-# CATEGORY: Dungeons & Dragons
+# Dungeons & Dragons / Fantasy
 # ==========================================
-#EXTINF:-1 tvg-id="DungeonsAndDragonsAdventures.us" tvg-name="Dungeons & Dragons Adventures HD" group-title="Dungeons & Dragons",Dungeons & Dragons Adventures HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTHTTP:{"urls":["https://dnd-adventures-1-us.samsung.wurl.tv/manifest/playlist.m3u8"],"headers":{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}}
-https://dnd-adventures-1-us.samsung.wurl.tv/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GeekAndSundry.us" tvg-name="Geek & Sundry HD" group-title="Dungeons & Dragons",Geek & Sundry HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d164d1f2780650d5102f43d/master.m3u8?deviceType=web&deviceMake=chrome&sid=123
+#EXTINF:-1 tvg-id="PlutoTTRPG.us" tvg-name="Pluto TV TTRPG" group-title="Dungeons & Dragons",Pluto TV TTRPG
+https://i.mjh.nz/PlutoTV/us.m3u8#5d164d1f2780650d5102f43d
 
 # ==========================================
-# CATEGORY: Sci-Fi & Fantasy
+# Sci-Fi & Fantasy
 # ==========================================
-#EXTINF:-1 tvg-id="PlutoSciFi.us" tvg-name="Pluto TV Sci-Fi HD" group-title="Sci-Fi & Fantasy",Pluto TV Sci-Fi HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/542b23a9109e25d20387b3e0/master.m3u8?deviceType=web&deviceMake=chrome&sid=123
+#EXTINF:-1 tvg-id="PlutoSciFi.us" tvg-name="Pluto TV Sci-Fi" group-title="Sci-Fi & Fantasy",Pluto TV Sci-Fi
+https://i.mjh.nz/PlutoTV/us.m3u8#542b23a9109e25d20387b3e0
 
 # ==========================================
-# CATEGORY: General & Entertainment
+# News & Live
 # ==========================================
-#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS Live HD" group-title="General",PBS Live HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS NewsHour Live" group-title="News",PBS NewsHour Live
 https://livestream.pbs.org/out/v1/319c5c7d8a6b4a3a9df80cb4e927063f/index.m3u8
 
 # ==========================================
-# CATEGORY: Sports - General
+# Sports
 # ==========================================
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV HD" group-title="Sports - General",Red Bull TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/591070/FL01/master.m3u8
